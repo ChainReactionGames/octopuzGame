@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brainpower</key>
+	<integer>0</integer>
+	<key>highestLevel</key>
+	<integer>0</integer>
+	<key>doneTutorial</key>
+	<false/>
+	<key>oneHigh</key>
+	<real>999999</real>
+	<key>twoHigh</key>
+	<integer>999999</integer>
+	<key>threeHigh</key>
+	<integer>999999</integer>
+	<key>fourHigh</key>
+	<integer>999999</integer>
+	<key>fiveHigh</key>
+	<integer>999999</integer>
+	<key>sixHigh</key>
+	<integer>999999</integer>
+	<key>sevenHigh</key>
+	<integer>999999</integer>
+	<key>eightHigh</key>
+	<integer>999999</integer>
+	<key>nineHigh</key>
+	<integer>999999</integer>
+	<key>tenHigh</key>
+	<integer>999999</integer>
+	<key>elevenHigh</key>
+	<integer>999999</integer>
+	<key>twelveHigh</key>
+	<integer>999999</integer>
+	<key>thirteenHigh</key>
+	<integer>999999</integer>
+	<key>fourteenHigh</key>
+	<integer>999999</integer>
+	<key>fifteenHigh</key>
+	<integer>999999</integer>
+</dict>
+</plist>
